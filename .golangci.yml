@@ -24,6 +24,7 @@ linters:
     - unconvert
     - unparam
     - whitespace
+    - modernize
     # - wrapcheck
   exclusions:
     rules:
